@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_tutorial", "AR_tutorial.csproj", "{B8286F51-4B30-AD32-01AD-7D35787431AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_tutorial.Editor", "AR_tutorial.Editor.csproj", "{9F2B4EA8-6078-C4A5-DD02-87CDB869DD03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8286F51-4B30-AD32-01AD-7D35787431AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8286F51-4B30-AD32-01AD-7D35787431AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8286F51-4B30-AD32-01AD-7D35787431AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8286F51-4B30-AD32-01AD-7D35787431AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2B4EA8-6078-C4A5-DD02-87CDB869DD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2B4EA8-6078-C4A5-DD02-87CDB869DD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2B4EA8-6078-C4A5-DD02-87CDB869DD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2B4EA8-6078-C4A5-DD02-87CDB869DD03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
